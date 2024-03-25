@@ -18,7 +18,7 @@ body {
     background-color: teal;
 }
 
-.container-1 {
+.content {
     width: 95%;
     height: auto;
     padding: 5px solid white;
@@ -35,7 +35,7 @@ body {
     letter-spacing: 3px;
 }
 
-.container-2 {
+.content-2 {
     width: 100%;
     height: auto;
     padding: 50px solid black;
@@ -43,11 +43,11 @@ body {
     background-color: lightgray;
 }
 
-.container-3 { 
+.container { 
     margin: 30px; 
 }
 
-.container-4 {
+.content-4 {
     display: flex;
     width: 100%;
     height: auto;
